@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Fazliddin1125
-- 👀 I’m interested in Python..
-- 🌱 I’m currently learning Rect js and ReactNative
+Hello 👋 
 
 
 <!---
